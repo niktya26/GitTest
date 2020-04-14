@@ -1,2 +1,6 @@
 Info about project
+
 commit for master 
+
+for bugfix2
+
