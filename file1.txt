@@ -4,3 +4,5 @@ commit for master
 
 for bugfix2
 
+for rebase
+
