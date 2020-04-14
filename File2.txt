@@ -1,4 +1,4 @@
-CR1 12
-Change the stash for half done work
-Local Master change
+CR1 12 55
 Another commit
+My changess  to local
+Local and Remote unsync
